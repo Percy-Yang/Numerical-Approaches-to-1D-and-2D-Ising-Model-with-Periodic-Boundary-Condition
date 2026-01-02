@@ -1,6 +1,7 @@
 # Numerical-Approaches-to-1D-and-2D-Ising-Model-with-Periodic-Boundary-Condition
 This repository contains my work for the Computational Physics course at National Tsing Hua University (NTHU). 
-This project explores several algorithms using transfer matrix to simulate 1D and 2D Ising model with periodic boundary condition.
+
+The project explores several algorithms using transfer matrix to simulate 1D and 2D Ising model with periodic boundary condition.
 ## Project Structure
 
 - **`1D.ipynb`**  
